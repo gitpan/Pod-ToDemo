@@ -1,9 +1,11 @@
 package Pod::ToDemo;
+BEGIN {
+  $Pod::ToDemo::VERSION = '1.20110613';
+}
+# ABSTRACT: writes a demo program from a tutorial POD
 
 use strict;
-
-use vars '$VERSION';
-$VERSION = '1.01';
+use warnings;
 
 sub import
 {
@@ -147,6 +149,6 @@ No known bugs, now.  Thanks to Greg Lapore for helping me track down a bug in
 
 =head1 COPYRIGHT
 
-Copyright (c) 2003 - 2005, chromatic.  All rights reserved.  You may use,
-modify, and distribute this module under the same terms as Perl 5.8.x, in the
+Copyright (c) 2003 - 2011, chromatic. Some rights reserved. You may use,
+modify, and distribute this module under the same terms as Perl 5.12, in the
 hope that it is useful but certainly under no guarantee.
