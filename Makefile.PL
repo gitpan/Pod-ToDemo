@@ -23,7 +23,7 @@ my %WriteMakefileArgs = (
   'LICENSE' => 'perl',
   'NAME' => 'Pod::ToDemo',
   'PREREQ_PM' => {},
-  'VERSION' => '1.20110613',
+  'VERSION' => '1.20110614',
   'test' => {
     'TESTS' => 't/*.t'
   }

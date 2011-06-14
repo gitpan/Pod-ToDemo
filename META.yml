@@ -15,6 +15,6 @@ meta-spec:
   version: 1.4
 name: Pod-ToDemo
 resources:
-  homepage: https://github.com/chromatic/UNIVERSAL-can
-  repository: https://github.com/chromatic/UNIVERSAL-can.git
-version: 1.20110613
+  homepage: https://github.com/chromatic/Pod-ToDemo
+  repository: https://github.com/chromatic/Pod-ToDemo-can.git
+version: 1.20110614
