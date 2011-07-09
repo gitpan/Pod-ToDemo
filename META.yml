@@ -8,7 +8,7 @@ build_requires:
 configure_requires:
   ExtUtils::MakeMaker: 6.30
 dynamic_config: 0
-generated_by: 'Dist::Zilla version 4.200007, CPAN::Meta::Converter version 2.110930'
+generated_by: 'Dist::Zilla version 4.200009, CPAN::Meta::Converter version 2.110930'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -16,5 +16,5 @@ meta-spec:
 name: Pod-ToDemo
 resources:
   homepage: https://github.com/chromatic/Pod-ToDemo
-  repository: https://github.com/chromatic/Pod-ToDemo-can.git
-version: 1.20110614
+  repository: https://github.com/chromatic/Pod-ToDemo.git
+version: 1.20110709

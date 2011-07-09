@@ -1,6 +1,6 @@
 package Pod::ToDemo;
 BEGIN {
-  $Pod::ToDemo::VERSION = '1.20110614';
+  $Pod::ToDemo::VERSION = '1.20110709';
 }
 # ABSTRACT: writes a demo program from a tutorial POD
 
